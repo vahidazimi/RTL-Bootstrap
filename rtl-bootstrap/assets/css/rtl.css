@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Vazir';
+    src:  url('../fonts/vazir.ttf') format('truetype');
+}
+body{
+  direction: rtl;
+  font-family: 'Vazir' !important;
+}
+.adn {
+    margin-left: auto !important;
+}
+.abc {
+    margin-left: 1rem !important;
+}
+.zc {
+    float: left !important;
+}
