@@ -1,0 +1,26 @@
+body{
+	background-color:#f2f2f2;
+	font-family:'tahoma';
+}
+div.content {
+	color:#fff;
+	width:300px;
+	height:300px;
+	margin:0 auto;
+	border:1px solid gray;
+	border-radius:18px;
+	
+}
+div.red{
+	background-color:red;
+}
+
+div.blue{
+	background-color:blue;
+}
+
+div.yellow{
+	background-color:yellow;
+}
+
+
